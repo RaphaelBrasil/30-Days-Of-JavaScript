@@ -10,6 +10,7 @@ console.log("Exercises: Level 1, 2");
 
 let myAge = 26;
 let yourAge = prompt("Enter your age: ");
+let teste = []; //teste
 
 if (myAge > yourAge) {
   console.log(`I'm ${myAge - yourAge} years older than you!`);
